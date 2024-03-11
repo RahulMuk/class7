@@ -1,6 +1,6 @@
     // Select all the filters
     
-    const colorFilter = document.getElementById('color-filter'); // dropdownFilter
+    const colorFilter = document.getElementById('color-filter');// dropdownFilter
     const sizeFilter = document.querySelectorAll('input[name="size"]'); // Radio Button Filter
     const typeFilters = document.querySelectorAll('input[type="checkbox"]'); // Checkbox Filter
     const filterButtons = document.querySelectorAll('.price-btn'); // Price Button
